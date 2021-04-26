@@ -3,6 +3,7 @@ title: "my blog"
 description: |
   my blog
 output_dir: "docs"
+base_url: https://dkpalmers.github.io/
 navbar:
   right:
     - text: "Home"
